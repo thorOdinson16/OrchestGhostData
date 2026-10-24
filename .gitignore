@@ -1,0 +1,8 @@
+.env
+code/cache/
+__pycache__/
+*.pyc
+code.zip
+code/evaluation/custom/dataset/
+code/evaluation/custom/predicted_output.csv
+code/evaluation/adversarial/dataset/
