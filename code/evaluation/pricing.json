@@ -1,0 +1,7 @@
+{
+  "gpt-6-luna": {
+    "input_per_1m_tokens_usd": 0.10,
+    "output_per_1m_tokens_usd": 0.50,
+    "note": "Standard processing, uncached input; prompts are far below the 272K long-context threshold. Cached input ($0.01/1M), cache writes ($0.125/1M) and Batch/Flex (50%) rates were not applied because no call used them."
+  }
+}
